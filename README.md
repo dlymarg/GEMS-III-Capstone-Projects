@@ -5,3 +5,5 @@ Capstone Projects.docx includes all the projects students can choose from. Stude
 # Additional Files
 
 midterm.txt is the file that the "Generating a Histogram" project reads from.
+
+ProblemStatement.zip is used in the Monoalphabetic Cipher Decryption project.
